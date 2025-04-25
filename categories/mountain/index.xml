@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mountain on Gallery</title>
+    <link>https://ioslide.github.io/categories/mountain/</link>
+    <description>Recent content in Mountain on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>im@xhy.im (Timeline)</managingEditor>
+    <webMaster>im@xhy.im (Timeline)</webMaster>
+    <copyright>© XHY</copyright><atom:link href="https://ioslide.github.io/categories/mountain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mountain</title>
+      <link>https://ioslide.github.io/mountain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>im@xhy.im (Timeline)</author>
+      <guid>https://ioslide.github.io/mountain/</guid>
+        <media:content url="https://ioslide.github.io/mountain/mountain_cover_hu_bb53aef324ebe13.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://ioslide.github.io/mountain/mountain_cover_hu_bb53aef324ebe13.JPG&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother mountain can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
